@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,eAAe,EAAE,MAAM;EACvB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CAOd;;AAVD,AAKI,UALM,CAKN,KAAK,CAAC;EACF,SAAS,EAAE,IAAI;EACf,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,IAAI,CAAA,UAAU;CAChC",
+    "sources": [
+        "StarWars.scss"
+    ],
+    "names": [],
+    "file": "StarWars.css"
+}

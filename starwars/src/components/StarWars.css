@@ -1,0 +1,14 @@
+.card-deck {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+  width: 80vw;
+}
+
+.card-deck .card {
+  min-width: 20vw;
+  max-width: 20vw;
+  margin-bottom: 15px !important;
+}
+/*# sourceMappingURL=StarWars.css.map */
